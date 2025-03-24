@@ -1,0 +1,39 @@
+1
+00:00:01,000 --> 00:00:06,000
+A volcano is an opening in the Earth's crust that allows molten rock, ash, and gases to escape.
+
+2
+00:00:06,500 --> 00:00:12,000
+Volcanoes are found in tectonically active regions, mainly along the Pacific Ring of Fire.
+
+3
+00:00:12,500 --> 00:00:18,000
+There are different types of volcanoes: shield, stratovolcanoes, cinder cone, and caldera volcanoes.
+
+4
+00:00:18,500 --> 00:00:24,000
+Eruptions can be explosive or effusive, depending on magma composition and pressure buildup.
+
+5
+00:00:24,500 --> 00:00:30,000
+Volcanic eruptions can cause devastating impacts such as lava flows, ash clouds, and tsunamis.
+
+6
+00:00:30,500 --> 00:00:36,000
+Volcanic activity plays a role in shaping landscapes and enriching soil with minerals, making it fertile for agriculture.
+
+7
+00:00:36,500 --> 00:00:42,000
+Some famous volcanoes include Mount Vesuvius, Mount St. Helens, and Mauna Loa.
+
+8
+00:00:42,500 --> 00:00:48,000
+Monitoring systems help predict eruptions using seismic activity, gas emissions, and ground deformation.
+
+9
+00:00:48,500 --> 00:00:54,000
+Volcanic islands such as Hawaii were formed due to hot spot volcanic activity.
+
+10
+00:00:54,500 --> 00:01:00,000
+While dangerous, volcanoes also provide geothermal energy, which is harnessed for electricity in some regions.

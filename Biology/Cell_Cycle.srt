@@ -1,0 +1,39 @@
+1
+00:00:01,000 --> 00:00:06,000
+The cell cycle is a highly regulated series of events that lead to cell growth and division.
+
+2
+00:00:06,500 --> 00:00:11,000
+It is divided into distinct phases: G1 (cell growth), S (DNA synthesis), G2 (preparation for mitosis), and M (mitosis).
+
+3
+00:00:11,500 --> 00:00:16,000
+During the G1 phase, the cell grows and accumulates resources necessary for DNA replication.
+
+4
+00:00:16,500 --> 00:00:21,000
+In the S phase, the entire genome is replicated, ensuring each daughter cell receives a complete set of chromosomes.
+
+5
+00:00:21,500 --> 00:00:26,000
+The G2 phase involves further growth and preparation, where the cell checks for DNA errors before division.
+
+6
+00:00:26,500 --> 00:00:31,000
+Mitosis, the M phase, is where the cell’s nucleus divides, followed by cytokinesis which splits the cytoplasm.
+
+7
+00:00:31,500 --> 00:00:36,000
+Cell cycle checkpoints act as quality control, ensuring DNA is replicated correctly and damage is repaired.
+
+8
+00:00:36,500 --> 00:00:41,000
+Failures in these regulatory checkpoints can lead to uncontrolled cell division and cancer.
+
+9
+00:00:41,500 --> 00:00:46,000
+Modern research explores cell cycle regulators to develop targeted therapies for cancer and other diseases.
+
+10
+00:00:46,500 --> 00:00:51,000
+The study of the cell cycle not only provides insight into cellular function but also underpins many advancements in biomedical science.

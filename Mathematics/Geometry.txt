@@ -1,0 +1,17 @@
+Geometry is the study of shapes, sizes, and the properties of space.
+
+It includes the study of points, lines, angles, surfaces, and solids.
+
+Euclidean geometry, named after the ancient Greek mathematician Euclid, forms the basis of classical geometry.
+
+Triangles are one of the fundamental shapes studied in geometry, classified as equilateral, isosceles, or scalene.
+
+The Pythagorean Theorem states that in a right triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides.
+
+Circles have unique properties such as radius, diameter, circumference, and area, governed by formulas involving π.
+
+3D geometry studies shapes like spheres, cylinders, cubes, and pyramids, extending 2D principles into three-dimensional space.
+
+Transformations in geometry, such as translation, rotation, reflection, and dilation, describe how shapes change in space.
+
+Geometry has real-world applications in architecture, navigation, art, engineering, and computer graphics.

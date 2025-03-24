@@ -1,0 +1,39 @@
+1
+00:00:01,000 --> 00:00:06,000
+DNA, or deoxyribonucleic acid, is the fundamental molecule that carries genetic information in all living organisms.
+
+2
+00:00:06,500 --> 00:00:11,000
+It is composed of two long strands forming a double helix, a structure first described by Watson and Crick.
+
+3
+00:00:11,500 --> 00:00:16,000
+The strands are made up of nucleotide bases: adenine, thymine, cytosine, and guanine, which pair specifically.
+
+4
+00:00:16,500 --> 00:00:21,000
+DNA replication ensures that genetic information is faithfully copied before cell division occurs.
+
+5
+00:00:21,500 --> 00:00:26,000
+Mutations can occur during replication or due to environmental factors, affecting the sequence and function of genes.
+
+6
+00:00:26,500 --> 00:00:31,000
+Cells have intricate repair mechanisms to correct errors, maintaining the integrity of the genome.
+
+7
+00:00:31,500 --> 00:00:36,000
+Gene expression involves transcription of DNA into RNA, which is then translated into proteins that perform cellular functions.
+
+8
+00:00:36,500 --> 00:00:41,000
+Genetic diversity arises from processes like recombination and mutation, driving evolution and adaptation.
+
+9
+00:00:41,500 --> 00:00:46,000
+Modern biotechnology uses DNA sequencing and genetic engineering in fields such as medicine, agriculture, and forensic science.
+
+10
+00:00:46,500 --> 00:00:51,000
+Understanding DNA has revolutionized biology, leading to breakthroughs in diagnostics, treatment, and personalized medicine.

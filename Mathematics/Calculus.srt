@@ -1,0 +1,35 @@
+1
+00:00:01,000 --> 00:00:06,000
+Calculus is a branch of mathematics that studies continuous change.
+
+2
+00:00:06,500 --> 00:00:12,000
+It is divided into two main areas: differential calculus and integral calculus.
+
+3
+00:00:12,500 --> 00:00:18,000
+Differential calculus focuses on rates of change and slopes of curves, using the concept of derivatives.
+
+4
+00:00:18,500 --> 00:00:24,000
+A derivative measures how a function's output changes in response to changes in its input.
+
+5
+00:00:24,500 --> 00:00:30,000
+Integral calculus studies the accumulation of quantities, calculating areas under curves using integrals.
+
+6
+00:00:30,500 --> 00:00:36,000
+The Fundamental Theorem of Calculus links differentiation and integration, showing they are inverse operations.
+
+7
+00:00:36,500 --> 00:00:42,000
+Calculus has practical applications in physics, economics, engineering, and biology.
+
+8
+00:00:42,500 --> 00:00:48,000
+Limits are a foundational concept in calculus that define the behavior of functions as they approach specific values.
+
+9
+00:00:48,500 --> 00:00:54,000
+Understanding calculus allows us to model real-world scenarios like motion, growth, and optimization problems.

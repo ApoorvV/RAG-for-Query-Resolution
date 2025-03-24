@@ -1,0 +1,39 @@
+1
+00:00:01,000 --> 00:00:06,000
+Climate change refers to long-term changes in temperature, precipitation, and weather patterns.
+
+2
+00:00:06,500 --> 00:00:12,000
+It is primarily caused by human activities such as burning fossil fuels, deforestation, and industrial emissions.
+
+3
+00:00:12,500 --> 00:00:18,000
+The greenhouse effect plays a major role, where gases like CO2 trap heat in the Earth's atmosphere.
+
+4
+00:00:18,500 --> 00:00:24,000
+Global temperatures have risen by about 1.2°C since pre-industrial times, leading to ice caps melting and sea levels rising.
+
+5
+00:00:24,500 --> 00:00:30,000
+Rising sea levels threaten coastal cities, leading to displacement of populations and loss of habitat.
+
+6
+00:00:30,500 --> 00:00:36,000
+Extreme weather events such as hurricanes, droughts, and wildfires have become more frequent due to climate change.
+
+7
+00:00:36,500 --> 00:00:42,000
+Efforts to combat climate change include reducing carbon emissions, shifting to renewable energy, and conservation projects.
+
+8
+00:00:42,500 --> 00:00:48,000
+International agreements such as the Paris Agreement aim to limit global warming to below 2°C.
+
+9
+00:00:48,500 --> 00:00:54,000
+Sustainable development and green technologies play a crucial role in mitigating climate change.
+
+10
+00:00:54,500 --> 00:01:00,000
+Everyone can contribute by reducing waste, using public transport, and supporting eco-friendly initiatives.

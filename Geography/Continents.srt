@@ -1,0 +1,39 @@
+1
+00:00:01,000 --> 00:00:06,000
+A continent is a large continuous mass of land conventionally regarded as a collective region.
+
+2
+00:00:06,500 --> 00:00:12,000
+There are seven continents on Earth: Asia, Africa, North America, South America, Antarctica, Europe, and Australia.
+
+3
+00:00:12,500 --> 00:00:18,000
+Asia is the largest and most populous continent, home to over 4.5 billion people.
+
+4
+00:00:18,500 --> 00:00:24,000
+Africa is rich in natural resources and has diverse ecosystems ranging from deserts to tropical rainforests.
+
+5
+00:00:24,500 --> 00:00:30,000
+North America includes countries such as the United States, Canada, and Mexico, and features diverse geography from tundras to tropical regions.
+
+6
+00:00:30,500 --> 00:00:36,000
+South America is home to the Amazon Rainforest, one of the most biodiverse places on Earth.
+
+7
+00:00:36,500 --> 00:00:42,000
+Antarctica is the coldest continent and is covered almost entirely by ice, making it the least inhabited region.
+
+8
+00:00:42,500 --> 00:00:48,000
+Europe is known for its rich history, economic development, and cultural diversity.
+
+9
+00:00:48,500 --> 00:00:54,000
+Australia, the smallest continent, is unique for its distinct wildlife, including kangaroos and koalas.
+
+10
+00:00:54,500 --> 00:01:00,000
+Continents have evolved over millions of years due to plate tectonics, which continue to shape the Earth's surface.

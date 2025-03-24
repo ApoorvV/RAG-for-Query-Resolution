@@ -1,0 +1,39 @@
+1
+00:00:01,000 --> 00:00:06,000
+Enzymes are biological catalysts that accelerate chemical reactions essential for life.
+
+2
+00:00:06,500 --> 00:00:11,000
+They lower the activation energy required for reactions, making processes efficient and fast.
+
+3
+00:00:11,500 --> 00:00:16,000
+Each enzyme has a specific active site where it binds to its substrate in a lock-and-key mechanism.
+
+4
+00:00:16,500 --> 00:00:21,000
+The enzyme-substrate complex facilitates the conversion of substrates into products through various biochemical reactions.
+
+5
+00:00:21,500 --> 00:00:26,000
+Enzyme kinetics, including reaction rates and affinity for substrates, are influenced by temperature and pH levels.
+
+6
+00:00:26,500 --> 00:00:31,000
+Inhibitors can affect enzyme activity; competitive inhibitors block the active site while non-competitive inhibitors bind elsewhere.
+
+7
+00:00:31,500 --> 00:00:36,000
+Enzymes play vital roles in metabolic pathways, including digestion, energy production, and cellular signaling.
+
+8
+00:00:36,500 --> 00:00:41,000
+They are also used in industrial applications such as food processing, biofuel production, and pharmaceutical manufacturing.
+
+9
+00:00:41,500 --> 00:00:46,000
+Understanding enzyme function and regulation has led to advances in medicine, including drug development and disease treatment.
+
+10
+00:00:46,500 --> 00:00:51,000
+Overall, enzymes are critical for sustaining life and driving the biochemical processes that occur in every cell.

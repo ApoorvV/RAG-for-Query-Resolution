@@ -1,0 +1,39 @@
+1
+00:00:01,000 --> 00:00:06,000
+The nervous system is a complex network responsible for transmitting signals and coordinating actions in the body.
+
+2
+00:00:06,500 --> 00:00:11,000
+It is divided into the central nervous system (CNS), comprising the brain and spinal cord, and the peripheral nervous system (PNS).
+
+3
+00:00:11,500 --> 00:00:16,000
+Neurons, the primary cells of the nervous system, transmit electrical impulses through specialized structures.
+
+4
+00:00:16,500 --> 00:00:21,000
+Synapses are the junctions where neurons communicate with each other via chemical messengers known as neurotransmitters.
+
+5
+00:00:21,500 --> 00:00:26,000
+The brain processes complex information, controlling voluntary actions, emotions, and cognitive functions.
+
+6
+00:00:26,500 --> 00:00:31,000
+The spinal cord acts as a conduit, relaying signals between the brain and the rest of the body.
+
+7
+00:00:31,500 --> 00:00:36,000
+The PNS includes sensory nerves that transmit external stimuli and motor nerves that control muscle movements.
+
+8
+00:00:36,500 --> 00:00:41,000
+Neurotransmitters such as dopamine, serotonin, and acetylcholine are crucial for mood regulation and neural communication.
+
+9
+00:00:41,500 --> 00:00:46,000
+Disorders of the nervous system, including Alzheimer's, Parkinson's, and epilepsy, impact millions worldwide.
+
+10
+00:00:46,500 --> 00:00:51,000
+Ongoing research in neuroscience continues to uncover the complexities of neural networks, offering new insights into treatment and rehabilitation.
