@@ -1,0 +1,13 @@
+langchain==0.3.18
+langchain-cohere==0.3.5
+langchain-community==0.3.17
+langchain-core==0.3.35
+langchain-experimental==0.3.4
+langchain-ollama==0.2.3
+langchain-openai==0.2.14
+langchain-text-splitters==0.3.6
+crewai==0.102.0
+crewai-tools==0.36.0
+chromadb==0.5.23
+tqdm==4.67.1
+pysrt==1.1.2
